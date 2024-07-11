@@ -1,2 +1,2 @@
 # programmingexamples
-programming examples to experiment with functionally
+programming examples to experiment with functionality
